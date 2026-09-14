@@ -4,7 +4,7 @@
 
 Install **CourtReporterSetup.exe**, then open **Court Reporter** from the desktop or Start menu. No Python, Node.js, Git or WebView2 setup is needed.
 
-Simple Editor opens with editable Eclipse pages and a complete paragraph editor side by side, with recording playback underneath. Joe Armstrong's adopted style profile is included automatically. Save changes to Joe's style once for future jobs.
+Simple Editor opens with one full-width editable Eclipse pane and recording playback underneath. Word selection includes adjoining punctuation. Classic and Review retain complete-paragraph editing and suggestion controls. Joe Armstrong's adopted style profile is included automatically. Save changes to Joe's style once for future jobs.
 
 The app checks for updates and offers **Restart to update** after an update downloads. Save your edits and finish or cancel active reviews first. Jobs and locally saved preferences live outside the application version folders.
 
